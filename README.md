@@ -1,4 +1,14 @@
-javascript.js
+# This is just a hello world project
+
+[this is a link](example.com)
+
+![image](custom.jpg)
+
+
+`javascript.js`
+
+
+```
 console.log("amin no.")
 alert("is the file attached?")
 //create a simple API to fork from M-PESA
@@ -11,3 +21,6 @@ function prompt user ()
          dovument.getelementById("usrname").inneHTML=usename;
            }
            texty="hello"+username;
+           ```
+           
+           
