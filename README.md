@@ -2,13 +2,9 @@
 
 [this is a link](example.com)
 
-![image](custom.jpg)
-
-
 `javascript.js`
 
-
-```
+````
 console.log("amin no.")
 alert("is the file attached?")
 //create a simple API to fork from M-PESA
@@ -22,5 +18,4 @@ function prompt user ()
            }
            texty="hello"+username;
            ```
-           
-           
+````
